@@ -1,0 +1,28 @@
+{
+	"name": "robotocondensed",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/css/robotocondensed.css",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nice-studio/RobotoCondensed.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nice-studio/RobotoCondensed/issues"
+	},
+	"homepage": "https://github.com/nice-studio/RobotoCondensed#readme",
+	"devDependencies": {
+		"grunt": "^1.0.1",
+		"grunt-contrib-less": "^1.3.0",
+		"grunt-contrib-pug": "^2.0.0",
+		"grunt-contrib-watch": "^1.0.0",
+		"grunt-notify": "git+https://github.com/ProjectSoft-STUDIONIONS/grunt-notify.git",
+		"load-grunt-tasks": "^3.5.0",
+		"time-grunt": "^1.4.0"
+	}
+}
