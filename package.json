@@ -15,7 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/nice-studio/RobotoCondensed/issues"
 	},
-	"githubpage": "https://nice-studio.github.io/Exo2/",
+	"githubpage": "https://nice-studio.github.io/RobotoCondensed/",
 	"homepage": "https://github.com/nice-studio/RobotoCondensed#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
